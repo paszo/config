@@ -1,0 +1,7 @@
+# ignore everything
+*
+# but not these files...
+!.gitignore
+!.bashrc
+!.vimrc
+!.git-completion.bash
